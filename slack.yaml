@@ -1,7 +1,7 @@
 ---
 # Used for post message action
 post_message_action:
-  webhook_url: "https://hooks.slack.com/services/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"
+  webhook_url: "https://hooks.slack.com/services/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"
   channel: "CSK0A9PF0"
   username: "stackstorm"
   icon_emoji: ":panda_face:"
