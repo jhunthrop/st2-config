@@ -5,10 +5,9 @@ post_message_action:
   channel: "CSK0A9PF0"
   username: "stackstorm"
   icon_emoji: ":panda_face:"
-
 # Used for Slack sensor
-sensor:
-  token: "xoxb-900814247925-900815103797-tWzvI0lM1hGqegDqpQZ74O2Y"
-  strip_formatting: false
+# sensor:
+#   token: "xoxb-900814247925-900815103797-tWzvI0lM1hGqegDqpQZ74O2Y"
+#   strip_formatting: false
 
-action_token: "xoxb-900814247925-900815103797-tWzvI0lM1hGqegDqpQZ74O2Y"
+# action_token: "xoxb-900814247925-900815103797-tWzvI0lM1hGqegDqpQZ74O2Y"
