@@ -5,9 +5,17 @@ post_message_action:
   channel: "CSK0A9PF0"
   username: "stackstorm"
   icon_emoji: ":panda_face:"
-# Used for Slack sensor
-# sensor:
-#   token: "xoxb-900814247925-900815103797-tWzvI0lM1hGqegDqpQZ74O2Y"
-#   strip_formatting: false
 
-# action_token: "xoxb-900814247925-900815103797-tWzvI0lM1hGqegDqpQZ74O2Y"
+# Used for Slack sensor
+sensor:
+  token: "xoxp-900814247925-900814248437-890610715937-b10c636746d24aef1da7737a1fe426bf"
+  strip_formatting: false
+
+action_token: "xoxp-900814247925-900814248437-890610715937-b10c636746d24aef1da7737a1fe426bf"
+# admin:
+#   admin_token: "xoxp-900814247925-900814248437-890610715937-b10c636746d24aef1da7737a1fe426bf"
+#   organization: ""
+#   set_active: true
+#   attempts: 1
+#   auto_join_channels:
+#     - CSK0A9PF0
